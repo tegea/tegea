@@ -1,10 +1,16 @@
+## Hi
+
+I'm a software engineer
+
 ## Languages and Tools
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&style=plastic)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=Redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Coherence-informational?style=flat&logo=Oracle&logoColor=white&color=F80000)
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
